@@ -8,6 +8,8 @@ Hi, I’m Roberta Del Vecchio! I’m a passionate data scientist with a knack fo
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/roberta-del-vecchio-04a58188/).
 
 ## :hammer_and_wrench:   Tools I Use
+[😄](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
+
 <p align=“left”>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt=“vscode” width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt=“python” width="30" height="30"/>
