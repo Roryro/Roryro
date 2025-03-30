@@ -7,7 +7,7 @@ Hi, I’m Roberta Del Vecchio! I’m a passionate developer with a knack for cre
 - :mailbox: How to reach me: [roryro@gmail.com](roryro@gmail.com)
 ## :mailbox: Connect with Me
 Feel free to reach out to me on [LinkedIn](www.linkedin.com/in/roberta-del-vecchio-04a58188).
-## :hammer_and_spanner: Tools I Use
+## :hammer_and_spanner : Tools I Use
 <p align=“left”>
 <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg” alt=“vscode” width=“30" height=“30”/>
 <img src=“https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg” alt=“python” width=“30" height=“30”/>
