@@ -1,64 +1,7 @@
-# Site settings
-title: Your Awesome Site Title
-email: your-email@example.com
-description: >-
-  Write an engaging description of your amazing website here!
-baseurl: "" # The subpath of your site, e.g., /blog
-url: "https://yourusername.github.io" # The base hostname & protocol for your site, don't include baseurl
-twitter_username: your_twitter_handle
-github_username:  yourusername
 
 # Build settings
 markdown: kramdown
-theme: minima # A simple and clean default theme. You can change this!
+theme: modernist # A simple and clean default theme. You can change this!
 plugins:
   - jekyll-feed
-
-# Exclude from processing
-exclude:
-  - .git
-  - node_modules
-  - vendor/bundle/
-  - vendor/cache/
-  - vendor/gems/
-  - vendor/ruby/
-
-# Theme-specific settings (if you change the theme, these might vary)
-minima:
-  skin: default # You can try other skins like dark
-  social_links:
-    - platform: github
-      username:  yourusername
-    - platform: twitter
-      username: your_twitter_handle
-    - platform: email
-      username: your-email@example.com
-    # Add more social links as needed
-
-# Other custom collections (if you want to organize content beyond posts and pages)
-# collections:
-#   projects:
-#     output: true
-#     permalink: /projects/:path/
-
-# Default values for different page types
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      permalink: /blog/:year/:month/:day/:title/
-  - scope:
-      path: ""
-      type: "pages"
-    values:
-      layout: "page"
-      permalink: /:title/
-
-# Enable pagination (if you plan to have a blog with multiple pages)
-# paginate: 10
-# paginate_path: /blog/page:num/
-
-# Future: If you want to use drafts
-# future: true
+  - jemoji
