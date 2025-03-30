@@ -1,7 +1,8 @@
 
 # Build settings
 markdown: kramdown
-theme: modernist # A simple and clean default theme. You can change this!
+remote_theme: pages-themes/modernist@v0.2.0
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
   - jemoji
