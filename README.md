@@ -4,6 +4,7 @@ Hi, I’m Roberta Del Vecchio! I’m a passionate data scientist with a knack fo
 - :seedling: I’m currently exploring **Data Engineering**, **Data Visualization**, and **Machine Learning**.
 - :speech_balloon:   Ask me about **Python**, **SQL**, and **Python**.
 - :mailbox: How to reach me:   [roryro@gmail.com](roryro@gmail.com)
+
 ## :mailbox: Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/roberta-del-vecchio-04a58188/).
 
