@@ -4,8 +4,7 @@ Hi, I’m Roberta Del Vecchio! I’m a passionate developer with a knack for cre
 - :seedling: I’m currently exploring **Machine Learning** and **Data Visualization**.
 - :handshake: I’m looking to collaborate on **open-source projects** and **innovative web applications**.
 - :speech_bubble:   Ask me about **Python**, and **SQL**.
-
-- :mailbox: How to reach me: [roryro@gmail.com](roryro@gmail.com)
+- :mailbox: How to reach me: [email](roryro@gmail.com)
 ## :mailbox: Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/roberta-del-vecchio-04a58188/).
 
