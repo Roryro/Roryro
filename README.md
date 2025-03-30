@@ -1,5 +1,5 @@
 # Roryro
-## About Me :smile:
+## About Me 😄
 Hi, I’m Roberta Del Vecchio! I’m a passionate data scientist with a knack for creating efficient, scalable solutions. My journey in tech spans web development, automation, and data analysis. I’m always excited to learn new technologies and collaborate on exciting projects.
 - :seedling: I’m currently exploring **Data Engineering**, **Data Visualization**, and **Machine Learning**.
 - :speech_balloon:   Ask me about **Python**, **SQL**, and **Python**.
