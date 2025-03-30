@@ -9,8 +9,8 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/roberta-d
 
 ## :hammer_and_spanner:   Tools I Use
 <p align=“left”>
-<img src= “https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg” alt=“vscode” width=“30" height=“30”/>
-<img src= “https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg” alt=“python” width=“30" height=“30”/>
+<img src= “cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg” alt=“vscode” width=“30" height=“30”/>
+<img src= “cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg” alt=“python” width=“30" height=“30”/>
 <img src= “https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg” alt=“docker” width=“30" height=“30”/>
 <img src= “https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg” alt=“git” width=“30" height=“30”/>
 <img src= “https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg” alt=“github” width=“30" height=“30”/>
