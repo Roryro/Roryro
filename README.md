@@ -6,7 +6,7 @@ Hi, I’m Roberta Del Vecchio! I’m a passionate data scientist with a knack fo
 - :mailbox: How to reach me:   [roryro@gmail.com](roryro@gmail.com)
 
 ## :mailbox: Connect with Me
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/roberta-del-vecchio-04a58188/).
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/roberta-del-vecchio/).
 
 ## :hammer_and_wrench:   Tools I Use
 <div>
